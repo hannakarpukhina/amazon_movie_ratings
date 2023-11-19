@@ -1,4 +1,5 @@
-https://github.com/hannakarpukhina/amazon_movie_ratings/assets/83240320/ebdfb856-b205-4429-b961-cacea6e7b4e5
+https://github.com/hannakarpukhina/amazon_movie_ratings/assets/83240320/b8bc770a-d384-4b38-b250-66b7afb2f23a
+
 
 This project is designed to download movies and TV ratings data and metadata from the Amazon site, store them in Google Cloud Storage, and then process and migrate the data using PySpark into a PostgreSQL database.
 
